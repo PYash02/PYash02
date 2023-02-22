@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PYash02
 - 👀 I’m interested in Open Source Programming, Competitive Programing
-- 🌱 I’m currently learning Fuzzy AI Algorithms, CP, and understanding the depth of Open Contribution
+- 🌱 I’m currently learning AI Algorithms, CP, and understanding the depth of Open Contribution
 - 💞️ I’m looking to collaborate on Anything that can help me gain experience
 - 📫 How to reach me, You can find me on palashyash02@gmail.com
 
