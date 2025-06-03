@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PYash02
-- 👀 I’m interested in Open Source Contributing and Competitive Programing
-- 🌱 I’m currently learning ML Algorithms, DSA, and understanding the depth of Open Contribution
+- 👀 I’m interested in DataScience/Machine Learning and Competitive Coding
+- 🌱 I’m currently learning depth of DataScience and implementing ML Algorithms to get familiarized with different ML Models
 - 💞️ I’m looking to collaborate on Anything that can help me gain experience
 - 📫 How to reach me, You can find me on palashyash02@gmail.com or @LinkedIn - pyash02
 
